@@ -1,0 +1,89 @@
+{
+    "name": "Paultons park",
+    "coordinates": {
+        "latitude": 50.94887,
+        "longitude": -1.5523553
+    },
+    "credits": [
+        {
+            "name": "Cat-O-Pillar Coaster",
+            "manufacturer": "Zierer",
+            "model": "Tivoli / Medium",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": null
+        },
+        {
+            "name": "Cobra",
+            "manufacturer": "Gerstlauer",
+            "model": "Bobsled Coaster",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": null
+        },
+        {
+            "name": "Flying Frog (Dino Chase)",
+            "manufacturer": "Zierer",
+            "model": "Tivoli / Small",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": null
+        },
+        {
+            "name": "Farmyard Flyer",
+            "manufacturer": "Zierer",
+            "model": "Force / Custom",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": "2024"
+        },
+        {
+            "name": "Flight of the Pterosaur",
+            "manufacturer": "Vekoma",
+            "model": "Suspended Family Coaster",
+            "tags": [
+                "Steel",
+                "Suspended"
+            ],
+            "date": "2024"
+        },
+        {
+            "name": "Runaway Train",
+            "manufacturer": "Big Country Motioneering",
+            "model": "Powered Roller Coaster",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": null
+        },
+        {
+            "name": "Storm Chaser",
+            "manufacturer": "Mack Rides",
+            "model": "Spinning Coaster",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": "2024"
+        },
+        {
+            "name": "Velociraptor",
+            "manufacturer": "Vekoma",
+            "model": "Family Boomerang",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": "2024"
+        }
+    ]
+}
