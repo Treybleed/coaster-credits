@@ -1,0 +1,130 @@
+{
+    "name": "Europa Park",
+    "coordinates": {
+        "latitude": 48.267665596,
+        "longitude": 7.71916379
+    },
+    "credits": [
+        {
+            "name": "Alpenexpress Enzian",
+            "manufacturer": "Mack Rides",
+            "model": "Powered Coaster",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": "2015"
+        },
+        {
+            "name": "Arthur",
+            "manufacturer": "Mack Rides",
+            "model": "Inverted Powered Coaster",
+            "tags": [
+                "Steel",
+                "Inverted"
+            ],
+            "date": "2015"
+        },
+        {
+            "name": "Alantica SuperSplash",
+            "manufacturer": "Mack Rides",
+            "model": "SuperSplash",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": "2015"
+        },
+        {
+            "name": "Blue Fire Megacoaster",
+            "manufacturer": "Mack Rides",
+            "model": "Launch Coaster",
+            "tags": [
+                "Steel",
+                "Sit-down",
+                "LSM-launch"
+            ],
+            "date": "2015"
+        },
+        {
+            "name": "Euro Mir",
+            "manufacturer": "Mack Rides",
+            "model": "Spinning Coaster",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": "2015"
+        },
+        {
+            "name": "Eurosat",
+            "manufacturer": "Mack Rides",
+            "model": "Eurosat",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": "2015"
+        },
+        {
+            "name": "Matterhorn Blitz",
+            "manufacturer": "Mack Rides",
+            "model": "Wilde Maus",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": "2015"
+        },
+        {
+            "name": "Pegasus",
+            "manufacturer": "Mack Rides",
+            "model": "Youngstar Coaster",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": "2015"
+        },
+        {
+            "name": "Poseidon",
+            "manufacturer": "Mack Rides",
+            "model": "Water Coaster",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": "2015"
+        },
+        {
+            "name": "Schweizer Bobbahn",
+            "manufacturer": "Mack Rides",
+            "model": "Bobsled",
+            "tags": [
+                "Steel",
+                "Bobsled"
+            ],
+            "date": "2015"
+        },
+        {
+            "name": "Silver Star",
+            "manufacturer": "B&M",
+            "model": "Hyper Coaster",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": "2015"
+        },
+        {
+            "name": "Wodan Timbur Coaster",
+            "manufacturer": "GCI",
+            "model": "Wooden Coaster",
+            "tags": [
+                "Wood",
+                "Sit-down"
+            ],
+            "date": "2015"
+        }
+    ]
+}
