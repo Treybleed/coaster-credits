@@ -1,0 +1,79 @@
+{
+    "name": "Efteling",
+    "coordinates": {
+        "latitude": 51.650164066,
+        "longitude": 5.042166498
+    },
+    "credits": [
+        {
+            "name": "Baron 1898",
+            "manufacturer": "B&M",
+            "model": "Dive Coaster",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": "2024"
+        },
+        {
+            "name": "Joris en de Draak (Water)",
+            "manufacturer": "GCI",
+            "model": "Wooden Coaster",
+            "tags": [
+                "Wood",
+                "Sit-down"
+            ],
+            "date": "2024"
+        },
+        {
+            "name": "Max + Moritz (Blue)",
+            "manufacturer": "Mack Rides",
+            "model": "Powered Coaster",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": "2024"
+        },
+        {
+            "name": "Max + Moritz (Green)",
+            "manufacturer": "Mack Rides",
+            "model": "Powered Coaster",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": "2024"
+        },
+        {
+            "name": "Python",
+            "manufacturer": "Vekoma",
+            "model": "Double Loop Corkscrew",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": "2024"
+        },
+        {
+            "name": "Vliegende Hollander",
+            "manufacturer": "KumbaK The Amusement Engineers",
+            "model": "Water Coaster",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": "2024"
+        },
+        {
+            "name": "Vogel Rok",
+            "manufacturer": "Vekoma",
+            "model": "MK-900",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": "2024"
+        }
+    ]
+}
