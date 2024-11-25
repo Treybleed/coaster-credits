@@ -1,0 +1,19 @@
+{
+    "name": "Hyde Park Winter Wonderland",
+    "coordinates": {
+        "latitude": 51.502777,
+        "longitude": -0.151250
+    },
+    "credits": [
+        {
+            "name": "Olympia Looping",
+            "manufacturer": "BHS",
+            "model": "",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": "2016"
+        }
+    ]
+}
