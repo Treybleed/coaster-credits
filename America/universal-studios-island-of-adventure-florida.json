@@ -1,0 +1,39 @@
+{
+    "name": "Universal Studios Island of Adventure Florida",
+    "coordinates": {
+        "latitude": 28.469664788,
+        "longitude": -81.469498122
+    },
+    "credits": [
+        {
+            "name": "Dueling Dragons (Fire)",
+            "manufacturer": "B&M",
+            "model": "Inverted Coaster",
+            "tags": [
+                "Steel",
+                "Inverted"
+            ],
+            "date": "2005"
+        },
+        {
+            "name": "Dueling Dragons (Ice)",
+            "manufacturer": "B&M",
+            "model": "Inverted Coaster",
+            "tags": [
+                "Steel",
+                "Inverted"
+            ],
+            "date": "2005"
+        },
+        {
+            "name": "Incredible Hulk",
+            "manufacturer": "B&M",
+            "model": "Sitting Coaster",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": "2005"
+        }
+    ]
+}

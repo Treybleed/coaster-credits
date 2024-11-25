@@ -1,0 +1,79 @@
+{
+    "name": "Busch Gardens Tampa",
+    "coordinates": {
+        "latitude": 28.0379,
+        "longitude": -82.4216
+    },
+    "credits": [
+        {
+            "name": "Gwazi (Tiger)",
+            "manufacturer": "GCI",
+            "model": "Wooden Coaster",
+            "tags": [
+                "Wood",
+                "Sit-down"
+            ],
+            "date": "2005"
+        },
+        {
+            "name": "Kumba",
+            "manufacturer": "B&M",
+            "model": "Sitting Coaster",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": "2005"
+        },
+        {
+            "name": "Montu",
+            "manufacturer": "B&M",
+            "model": "Inverted Coaster",
+            "tags": [
+                "Steel",
+                "Inverted"
+            ],
+            "date": "2005"
+        },
+        {
+            "name": "Python",
+            "manufacturer": "Arrow Dynamics",
+            "model": "Corkscrew",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": "2005"
+        },
+        {
+            "name": "Cheetah Chase",
+            "manufacturer": "Mack Rides",
+            "model": "Wilde Maus",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": "2005"
+        },
+        {
+            "name": "Scorpion",
+            "manufacturer": "Schwarzkopf",
+            "model": "Silverarrow",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": "2005"
+        },
+        {
+            "name": "SheiKra",
+            "manufacturer": "B&M",
+            "model": "Dive Coaster",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": "2005"
+        }
+    ]
+}

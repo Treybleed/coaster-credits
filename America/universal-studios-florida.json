@@ -1,0 +1,29 @@
+{
+    "name": "Universal Studios Florida",
+    "coordinates": {
+        "latitude": 28.4752,
+        "longitude": -81.467
+    },
+    "credits": [
+        {
+            "name": "Revenge of the Mummy",
+            "manufacturer": "Premier Rides",
+            "model": "",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": "2005"
+        },
+        {
+            "name": "Woody Woodpecker's Nuthouse Coaster",
+            "manufacturer": "Vekoma",
+            "model": "Junior Coaster",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": "2003"
+        }
+    ]
+}

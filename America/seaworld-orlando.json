@@ -1,0 +1,29 @@
+{
+    "name": "SeaWorld Orlando",
+    "coordinates": {
+        "latitude": 28.406498374,
+        "longitude": -81.45749817
+    },
+    "credits": [
+        {
+            "name": "Journey to Atlantis",
+            "manufacturer": "Mack Rides",
+            "model": "Water Coaster",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": "2005"
+        },
+        {
+            "name": "Kraken",
+            "manufacturer": "B&M",
+            "model": "Floorless Coaster",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": "2005"
+        }
+    ]
+}

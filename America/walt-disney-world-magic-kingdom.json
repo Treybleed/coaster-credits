@@ -1,0 +1,39 @@
+{
+    "name": "Walt Disney World - Magic Kingdom",
+    "coordinates": {
+        "latitude": 28.417831662,
+        "longitude": -81.575331032
+    },
+    "credits": [
+        {
+            "name": "Barnstormer",
+            "manufacturer": "Vekoma",
+            "model": "Junior Coaster",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": "2003"
+        },
+        {
+            "name": "Big Thunder Mountain Railroad",
+            "manufacturer": "Disney",
+            "model": "",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": "2003"
+        },
+        {
+            "name": "Space Mountain (Alpha)",
+            "manufacturer": "Disney",
+            "model": "",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": "2005"
+        }
+    ]
+}
