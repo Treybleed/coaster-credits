@@ -1,0 +1,79 @@
+{
+    "name": "PortAventura Park",
+    "coordinates": {
+        "latitude": 41.08416633,
+        "longitude": 1.15083273
+    },
+    "credits": [
+        {
+            "name": "Dragon Khan",
+            "manufacturer": "B&M",
+            "model": "Sitting Coaster",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": null
+        },
+        {
+            "name": "Diablo - Tren de la Mina",
+            "manufacturer": "Arrow Dynamics",
+            "model": "Mine Train",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": "2017"
+        },
+        {
+            "name": "Furius Baco",
+            "manufacturer": "Intamin",
+            "model": "Wing Rider Coaster",
+            "tags": [
+                "Steel",
+                "Wing"
+            ],
+            "date": "2017"
+        },
+        {
+            "name": "Shambhala",
+            "manufacturer": "B&M",
+            "model": "Hyper Coaster",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": "2017"
+        },
+        {
+            "name": "Stampida (red)",
+            "manufacturer": "Custom Coasters International",
+            "model": "",
+            "tags": [
+                "Wood",
+                "Sit-down"
+            ],
+            "date": "2017"
+        },
+        {
+            "name": "Stampida (blue)",
+            "manufacturer": "Custom Coasters International",
+            "model": "",
+            "tags": [
+                "Wood",
+                "Sit-down"
+            ],
+            "date": "2017"
+        },
+        {
+            "name": "Tomahawk",
+            "manufacturer": "Custom Coasters International",
+            "model": "",
+            "tags": [
+                "Wood",
+                "Sit-down"
+            ],
+            "date": "2017"
+        }
+    ]
+}

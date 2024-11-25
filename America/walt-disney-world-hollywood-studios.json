@@ -1,0 +1,20 @@
+{
+    "name": "Walt Disney World - Disney's Hollywood Studios",
+    "coordinates": {
+        "latitude": 28.35499858,
+        "longitude": -81.555331112
+    },
+    "credits": [
+        {
+            "name": "Rock 'n' Roller Coaster",
+            "manufacturer": "Vekoma",
+            "model": "Launch Coaster",
+            "tags": [
+                "Steel",
+                "Sit-down",
+                "LSM-launch"
+            ],
+            "date": "2005"
+        }
+    ]
+}
