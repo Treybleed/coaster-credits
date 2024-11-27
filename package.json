@@ -1,0 +1,8 @@
+{
+    "name": "coaster-credits",
+    "version": "1.0.0",
+    "author": "Matt Hobbs",
+    "scripts" : {
+        "generate": "node ./scripts/generate.js"
+    }
+  }
