@@ -1,0 +1,59 @@
+{
+    "name": "Chessington World of Adventures",
+    "coordinates": {
+        "latitude": 51.34249863,
+        "longitude": -0.3166654
+    },
+    "credits": [
+        {
+            "name": "Dragons Fury",
+            "manufacturer": "Maurer Rides",
+            "model": "Spinning Coaster",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": null
+        },
+        {
+            "name": "Mandrill Mayhem",
+            "manufacturer": "B&M",
+            "model": "Wing Coaster",
+            "tags": [
+                "Steel",
+                "Wing"
+            ],
+            "date": null
+        },
+        {
+            "name": "Rattlesnake",
+            "manufacturer": "Maurer Rides",
+            "model": "Wild Maus Coaster",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": null
+        },
+        {
+            "name": "scorpion Express",
+            "manufacturer": "Mack Rides",
+            "model": "Powered Coaster",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": null
+        },
+        {
+            "name": "Vampire",
+            "manufacturer": "Arrow Dynamics",
+            "model": "Suspended Coaster",
+            "tags": [
+                "Steel",
+                "Suspended"
+            ],
+            "date": null
+        }
+    ]
+}

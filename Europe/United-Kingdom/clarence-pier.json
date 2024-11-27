@@ -1,0 +1,19 @@
+{
+    "name": "Clarence Pier",
+    "coordinates": {
+        "latitude": 50.7860635224,
+        "longitude": -1.1011329288
+    },
+    "credits": [
+        {
+            "name": "Skyways",
+            "manufacturer": "S.D.C",
+            "model": "Galaxi",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": null
+        }
+    ]
+}

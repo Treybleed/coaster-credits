@@ -1,0 +1,19 @@
+{
+    "name": "Adventure Wonderland Christchurch",
+    "coordinates": {
+        "latitude": 50.774281448516284,
+        "longitude": -1.8437960747074267
+    },
+    "credits": [
+        {
+            "name": "Wild Bill's Runaway Train",
+            "manufacturer": "D.P.V Rides",
+            "model": "Junior Coaster",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": null
+        }
+    ]
+}

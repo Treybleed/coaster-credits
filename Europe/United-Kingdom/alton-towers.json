@@ -1,0 +1,109 @@
+{
+    "name": "Alton Towers",
+    "coordinates": {
+        "latitude": 52.985882,
+        "longitude": -1.885312
+    },
+    "credits": [
+        {
+            "name": "Black Hole",
+            "manufacturer": "Schwarzkopf",
+            "model": "Jet Star",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": null
+        },
+        {
+            "name": "Corkscrew",
+            "manufacturer": "Vekoma",
+            "model": "Corkscrew",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": null
+        },
+        {
+            "name": "Air",
+            "manufacturer": "B&M",
+            "model": "Flying Coaster",
+            "tags": [
+                "Steel",
+                "Flying"
+            ],
+            "date": null
+        },
+        {
+            "name": "Nemesis",
+            "manufacturer": "B&M",
+            "model": "Inverted Coaster",
+            "tags": [
+                "Steel",
+                "Inverted"
+            ],
+            "date": null
+        },
+        {
+            "name": "Oblivion",
+            "manufacturer": "B&M",
+            "model": "Dive Coaster",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": null
+        },
+        {
+            "name": "Rita",
+            "manufacturer": "Intamin",
+            "model": "Launch Coaster",
+            "tags": [
+                "Steel",
+                "Hydraulic-launch"
+            ],
+            "date": null
+        },
+        {
+            "name": "Runaway Mine Train",
+            "manufacturer": "Mack Rides",
+            "model": "Powered Coaster",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": null
+        },
+        {
+            "name": "Spinball Whizzer",
+            "manufacturer": "Maurer Rides",
+            "model": "Spinning Coaster",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": null
+        },
+        {
+            "name": "Th13teen",
+            "manufacturer": "Intamin",
+            "model": "Multi Dimension Coaster",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": null
+        },
+        {
+            "name": "Wicker rman",
+            "manufacturer": "GCI",
+            "model": "Wooden Coaster",
+            "tags": [
+                "Wood",
+                "Sit-down"
+            ],
+            "date": null
+        }
+    ]
+}

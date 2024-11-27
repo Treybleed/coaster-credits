@@ -1,0 +1,39 @@
+{
+    "name": "Flamingo Land",
+    "coordinates": {
+        "latitude": 54.2097,
+        "longitude": -0.8082
+    },
+    "credits": [
+        {
+            "name": "Hero",
+            "manufacturer": "Zamperla",
+            "model": "Volare",
+            "tags": [
+                "Steel",
+                "Flying"
+            ],
+            "date": null
+        },
+        {
+            "name": "Kumali",
+            "manufacturer": "Vekoma",
+            "model": "SLC",
+            "tags": [
+                "Steel",
+                "Inverted"
+            ],
+            "date": null
+        },
+        {
+            "name": "Mumbo Jumbo",
+            "manufacturer": "S&S Worldwide",
+            "model": "El Loco",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": null
+        }
+    ]
+}

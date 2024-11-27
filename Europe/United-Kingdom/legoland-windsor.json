@@ -1,0 +1,49 @@
+{
+    "name": "Legoland Windsor",
+    "coordinates": {
+        "latitude": 51.46351,
+        "longitude": -0.65114
+    },
+    "credits": [
+        {
+            "name": "Dragon",
+            "manufacturer": "WGH Transportation",
+            "model": "",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": null
+        },
+        {
+            "name": "Dragon's Apprentice",
+            "manufacturer": "WGH Transportation",
+            "model": "",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": null
+        },
+        {
+            "name": "Jungle Coaster",
+            "manufacturer": "Mack Rides",
+            "model": "Wilde Maus",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": null
+        },
+        {
+            "name": "Minifigure Speedway (Allstars)",
+            "manufacturer": "Zierer",
+            "model": "Force",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": "2024"
+        }
+    ]
+}

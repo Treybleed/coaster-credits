@@ -1,0 +1,39 @@
+{
+    "name": "Drayton Manor",
+    "coordinates": {
+        "latitude": 52.606497574,
+        "longitude": -1.707997168
+    },
+    "credits": [
+        {
+            "name": "Accelerator",
+            "manufacturer": "Vekoma",
+            "model": "Family Boomerang",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": "2016"
+        },
+        {
+            "name": "G Force",
+            "manufacturer": "Maurer Rides",
+            "model": "X-Car",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": "2016"
+        },
+        {
+            "name": "Shockwave",
+            "manufacturer": "Intamin",
+            "model": "Stand-Up Coaster",
+            "tags": [
+                "Steel",
+                "Stand-up"
+            ],
+            "date": "2016"
+        }
+    ]
+}
