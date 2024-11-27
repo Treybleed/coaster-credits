@@ -1,0 +1,109 @@
+{
+    "name": "Thorpe Park",
+    "coordinates": {
+        "latitude": 51.402831722,
+        "longitude": -0.507831302
+    },
+    "credits": [
+        {
+            "name": "Colossus",
+            "manufacturer": "Intamin",
+            "model": "Multi Inversion Coaster",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": null
+        },
+        {
+            "name": "Flying Fish",
+            "manufacturer": "Mack Rides",
+            "model": "Powered Coaster",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": null
+        },
+        {
+            "name": "Flying Fish (Original)",
+            "manufacturer": "Mack Rides",
+            "model": "Powered Coaster",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": null
+        },
+        {
+            "name": "Flying Fish",
+            "manufacturer": "Mack Rides",
+            "model": "Powered Coaster",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": null
+        },
+        {
+            "name": "Hyperia",
+            "manufacturer": "Mack Rides",
+            "model": "Hyper Coaster",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": "2024"
+        },
+        {
+            "name": "Nemesis iNFERNO",
+            "manufacturer": "B&M",
+            "model": "Inverted Coaster",
+            "tags": [
+                "Steel",
+                "Inverted"
+            ],
+            "date": null
+        },
+        {
+            "name": "Saw - The Ride",
+            "manufacturer": "Gerstlauer",
+            "model": "Euro-Fighter",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": null
+        },
+        {
+            "name": "Stealth",
+            "manufacturer": "Intamin",
+            "model": "Launch Coaster",
+            "tags": [
+                "Steel",
+                "Hydraulic-launch"
+            ],
+            "date": null
+        },
+        {
+            "name": "Swarm",
+            "manufacturer": "B&M",
+            "model": "Wing Coaster",
+            "tags": [
+                "Steel",
+                "Wing"
+            ],
+            "date": null
+        },
+        {
+            "name": "X",
+            "manufacturer": "Vekoma",
+            "model": "Enigma",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": null
+        }
+    ]
+}

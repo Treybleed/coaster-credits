@@ -1,0 +1,129 @@
+{
+    "name": "Blackpool Pleasure Beach",
+    "coordinates": {
+        "latitude": 53.78749685,
+        "longitude": -3.05333312
+    },
+    "credits": [
+        {
+            "name": "Avalanche",
+            "manufacturer": "Mack Rides",
+            "model": "Bobsled",
+            "tags": [
+                "Steel",
+                "Bobsled"
+            ],
+            "date": "2015"
+        },
+        {
+            "name": "Big Dipper",
+            "manufacturer": "",
+            "model": "",
+            "tags": [
+                "Wood",
+                "Sit-down"
+            ],
+            "date": "2016"
+        },
+        {
+            "name": "Big One",
+            "manufacturer": "Arrow Dynamics",
+            "model": "Hyper Coaster",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": "2015"
+        },
+        {
+            "name": "Blue Flyer",
+            "manufacturer": "",
+            "model": "",
+            "tags": [
+                "Wood",
+                "Sit-down"
+            ],
+            "date": "2015"
+        },
+        {
+            "name": "Grand National (Left)",
+            "manufacturer": "",
+            "model": "Möbius Loop",
+            "tags": [
+                "Wood",
+                "Sit-down"
+            ],
+            "date": "2015"
+        },
+        {
+            "name": "Grand National (Right)",
+            "manufacturer": "",
+            "model": "Möbius Loop",
+            "tags": [
+                "Wood",
+                "Sit-down"
+            ],
+            "date": "2015"
+        },
+        {
+            "name": "Icon",
+            "manufacturer": "Mack Rides",
+            "model": "Launch Coaster",
+            "tags": [
+                "Steel",
+                "LSM-launch"
+            ],
+            "date": "2018"
+        },
+        {
+            "name": "Infusion",
+            "manufacturer": "Vekoma",
+            "model": "SLC",
+            "tags": [
+                "Steel",
+                "Inverted"
+            ],
+            "date": "2015"
+        },
+        {
+            "name": "Nickelodeon Streak",
+            "manufacturer": "",
+            "model": "",
+            "tags": [
+                "Wood",
+                "Sit-down"
+            ],
+            "date": "2015"
+        },
+        {
+            "name": "Revolution",
+            "manufacturer": "Arrow Dynamics",
+            "model": "Shuttle Loop",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": "2015"
+        },
+        {
+            "name": "Steeplechase",
+            "manufacturer": "Arrow Dynamics",
+            "model": "Steeplechase",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": "2015"
+        },
+        {
+            "name": "Wild Mouse",
+            "manufacturer": "",
+            "model": "",
+            "tags": [
+                "Wood",
+                "Sit-down"
+            ],
+            "date": "2015"
+        }
+    ]
+}

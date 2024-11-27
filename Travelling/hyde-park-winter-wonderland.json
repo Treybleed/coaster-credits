@@ -14,6 +14,36 @@
                 "Sit-down"
             ],
             "date": "2016"
+        },
+        {
+            "name": "Ice Mountain Coaster",
+            "manufacturer": "",
+            "model": "Spinning Coaster",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": "2016"
+        },
+        {
+            "name": "Wilde Maus XXL",
+            "manufacturer": "",
+            "model": "Wild Maus",
+            "tags": [
+                "Steel",
+                "Sit-down"
+            ],
+            "date": "2016"
+        },
+        {
+            "name": "Euro Coaster",
+            "manufacturer": "",
+            "model": "",
+            "tags": [
+                "Steel",
+                "Inverted"
+            ],
+            "date": "2016"
         }
     ]
 }
