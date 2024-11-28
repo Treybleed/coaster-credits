@@ -1,6 +1,6 @@
 {
     "name": "Alton Towers",
-    "Country": "United Kingdom",
+    "country": "United Kingdom",
     "coordinates": {
         "latitude": 52.985882,
         "longitude": -1.885312

@@ -1,6 +1,6 @@
 {
     "name": "Efteling",
-    "Country": "Netherlands",
+    "country": "Netherlands",
     "coordinates": {
         "latitude": 51.650164066,
         "longitude": 5.042166498

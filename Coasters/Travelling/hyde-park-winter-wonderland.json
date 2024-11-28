@@ -1,6 +1,6 @@
 {
     "name": "Hyde Park Winter Wonderland",
-    "Country": "United Kingdom",
+    "country": "United Kingdom",
     "coordinates": {
         "latitude": 51.502777,
         "longitude": -0.151250

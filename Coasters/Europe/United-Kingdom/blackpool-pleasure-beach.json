@@ -1,6 +1,6 @@
 {
     "name": "Blackpool Pleasure Beach",
-    "Country": "United Kingdom",
+    "country": "United Kingdom",
     "coordinates": {
         "latitude": 53.78749685,
         "longitude": -3.05333312

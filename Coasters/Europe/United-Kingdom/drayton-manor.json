@@ -1,6 +1,6 @@
 {
     "name": "Drayton Manor",
-    "Country": "United Kingdom",
+    "country": "United Kingdom",
     "coordinates": {
         "latitude": 52.606497574,
         "longitude": -1.707997168

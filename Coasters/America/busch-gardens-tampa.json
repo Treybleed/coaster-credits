@@ -1,6 +1,6 @@
 {
     "name": "Busch Gardens Tampa",
-    "Country": "United States of America",
+    "country": "United States of America",
     "coordinates": {
         "latitude": 28.0379,
         "longitude": -82.4216

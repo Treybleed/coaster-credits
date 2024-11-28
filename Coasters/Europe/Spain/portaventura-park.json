@@ -1,6 +1,6 @@
 {
     "name": "PortAventura Park",
-    "Country": "Spain",
+    "country": "Spain",
     "coordinates": {
         "latitude": 41.08416633,
         "longitude": 1.15083273

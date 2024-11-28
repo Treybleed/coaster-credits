@@ -31,7 +31,7 @@ let coaster_count = 0;
         const countries = [...new Set(parks.map(park => park.Country))]
             .map((country) => {
                 const parksInCountry = parks.filter((park) => {
-                    return park.Country === country
+                    return park.country === country
                 });
 
                 let coaster_count_in_country = 0;

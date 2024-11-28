@@ -1,6 +1,6 @@
 {
     "name": "Legoland Windsor",
-    "Country": "United Kingdom",
+    "country": "United Kingdom",
     "coordinates": {
         "latitude": 51.46351,
         "longitude": -0.65114

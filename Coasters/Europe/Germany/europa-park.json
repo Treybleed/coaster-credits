@@ -1,6 +1,6 @@
 {
     "name": "Europa Park",
-    "Country": "Germany",
+    "country": "Germany",
     "coordinates": {
         "latitude": 48.267665596,
         "longitude": 7.71916379
