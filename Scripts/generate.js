@@ -5,7 +5,7 @@ const rootPath = fs.realpathSync('./');
 const rootDirectory = '/Coasters';
 
 let parks = [];
-let coaster_count = 0;
+let coasters = [];
 
 (async () => {
     try {
@@ -22,11 +22,13 @@ let coaster_count = 0;
         });
 
         parks.forEach((park) => {
-            coaster_count += park.credits.length;
+            park.credits.forEach((coaster) => {
+                coasters.push(coaster);
+            })
         });
 
         console.log(`Park count: ${parks.length}`);
-        console.log(`Coaster count: ${coaster_count}`);
+        console.log(`Coaster count: ${coasters.length}`);
 
         const countries = [...new Set(parks.map(park => park.Country))]
             .map((country) => {
@@ -46,8 +48,30 @@ let coaster_count = 0;
                 })
             });
 
+        // Most ridden manufacturers
+        const uniqueListOfManufactuers = [...new Set(coasters.map(coaster => coaster.manufacturer))].filter((record) => record != '');
+        const mostRiddenManufactuers = uniqueListOfManufactuers.map((manufacturer) => {
+            return {
+                manufacturer,
+                count: coasters.filter(v => manufacturer === v.model).length,
+            }
+        }).sort((a,b) => b.count - a.count);
+
+        // Most ridden models
+        const uniqueListOfModels = [...new Set(coasters.map(coaster => coaster.model))].filter((record) => record != '');
+        const mostRiddenModels = uniqueListOfModels.map((model) => {
+            return {
+                model,
+                count: coasters.filter(v => model === v.model).length,
+            }
+        }).sort((a,b) => b.count - a.count);
+
+        // Save to data.json
+
         const dataStr = JSON.stringify({
-            coasterCount: coaster_count,
+            coasterCount: coasters.length,
+            mostRiddenManufactuers,
+            mostRiddenModels,
             details: countries,
         });
 
