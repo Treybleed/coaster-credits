@@ -53,7 +53,7 @@ let coasters = [];
         const mostRiddenManufactuers = uniqueListOfManufactuers.map((manufacturer) => {
             return {
                 manufacturer,
-                count: coasters.filter(v => manufacturer === v.model).length,
+                count: coasters.filter(v => manufacturer === v.manufacturer).length,
             }
         }).sort((a,b) => b.count - a.count);
 
