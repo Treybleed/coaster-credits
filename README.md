@@ -10,6 +10,7 @@ Current coaster count: 106
 1. Legoland winsor (2)
 2. Alton towers: (1)
 
+
 **Birthday mega trip**
 1. Plopsaland De Panne (7)
 2. Walibi Holland (10)
