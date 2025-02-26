@@ -6,11 +6,11 @@ Current coaster count: 106
 
 2025 coaster credit plans (27):
 
-**Annual merlin trip** 
+**Annual merlin trip**
 1. Legoland winsor (2)
 2. Alton towers: (1)
 
-**Birthday mega trip**   
-4. Plopsaland De Panne (7)
-5. Walibi Holland (10)
-6. Phantasialand (7)
+**Birthday mega trip**
+1. Plopsaland De Panne (7)
+2. Walibi Holland (10)
+3. Phantasialand (7)
